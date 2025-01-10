@@ -1,10 +1,10 @@
 ## Hi there 👋
-✨#### about me:
+#### about me:
 > - 💖 name: `josie`
 > - 🔆 age: `25`
 > - 😄 pronouns: `she/her or they/them`
 
-✨#### other fun stuff:
+#### other fun stuff:
 > - 🔭 I’m currently working on:
 > `school and work`
 > - 🌱 I’m currently learning:
