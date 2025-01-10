@@ -1,16 +1,32 @@
 ## Hi there 👋
+✨#### about me:
+> - 💖 name: `josie`
+> - 🔆 age: `25`
+> - 😄 pronouns: `she/her or they/them`
 
-<!--
-**spiderdotcom/spiderdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨#### other fun stuff:
+> - 🔭 I’m currently working on:
+> `school and work`
+> - 🌱 I’m currently learning:
+> `scala`
+> `sql`
+> - 💬 Ask me about:
+> `tokusatsu`
+> `dslr photography`
+> `network administration`
+> - ⚡ Fun fact: 
+> `i have 6 adorable pet rats 🐀` 
+> - 👾 Certifications:
+> `ccna`
+> `comptia a+`
+> `itil v4`
+> `lpi linux essentials`
+> - 💻 I've coded in:
+> `c++`
+> `java`
+> `html/css`
+> `python`
+> 
+> `..but i'm getting back into programming so i'm basically starting fresh! thanks for dropping by!`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![kr](https://c.tenor.com/FQqH8LtrPTMAAAAd/kamen-rider-kamen-rider-build.gif)
